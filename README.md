@@ -9,7 +9,7 @@
 Quick Configuration Guide:
 -----------------------------
 To get the quick access to the different packages of python:
-Create a virtual evnironment under the folder in which you are creating python(.py) file in Visual Studio Code and install below packages in cmd prompt:
+Create a virtual evnironment under the folder in which you are creating python(.py) file in Visual Studio Code and install below packages in cmd prompt and import them:
 
 - import os
 - import json
