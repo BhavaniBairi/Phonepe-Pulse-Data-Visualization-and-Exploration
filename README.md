@@ -11,16 +11,18 @@ Quick Configuration Guide:
 To get the quick access to the different packages of python:
 Create a virtual evnironment under the folder in which you are creating python(.py) file in Visual Studio Code and install below packages in cmd prompt:
 
-.import os
-.import json
-.import pandas as pd
-.import psycopg2
-.import streamlit as st
-.from streamlit_option_menu import option_menu
-.import plotly.express as px
-.from PIL import Image
-.import requests
-.import matplotlib.pyplot as plt
+markdown
+
+-import os
+-import json
+-import pandas as pd
+-import psycopg2
+-import streamlit as st
+-from streamlit_option_menu import option_menu
+-import plotly.express as px
+-from PIL import Image
+-import requests
+-import matplotlib.pyplot as plt
 
 ------------------------------------------------------------------------------------------------------------------
 ----------------------------------------
