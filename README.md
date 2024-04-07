@@ -1,6 +1,5 @@
 # Phonepe-Pulse-Data-Visualization-and-Exploration
 
-PhonePe Pulse Data Visualizationa dn Exploration
 ------------------------------------------------------------------------------------------------------
 1. @Title: Phonepe Pulse Data Visualization and Exploration--README
 2. @Description: A streamlit application that allows users to access and analyze data of Phonepe application used for digital payments and transactions
